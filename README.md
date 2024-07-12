@@ -20,7 +20,7 @@ MegaScenes was created to provide the research community scene-level, open-licen
 
 ### Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?
 
-The dataset was curated by researchers at Cornell University in [Prof. Noah Snavely](https://www.cs.cornell.edu/~snavely/)'s group. This dataset was collected for a project in collaboration with researchers at Stanford University and Adobe Research in the following project: https://megascenes.github.io/. 
+The dataset was curated by researchers at Cornell University in [Prof. Noah Snavely](https://www.cs.cornell.edu/~snavely/)'s group. This dataset was collected for a project in collaboration with researchers at Stanford University and Adobe Research: https://megascenes.github.io/. 
 
 ### Who funded the creation of the dataset?
 
